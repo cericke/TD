@@ -1,0 +1,1 @@
+﻿package code {		import flash.display.MovieClip;	import flash.display.SimpleButton;	import flash.events.Event;			public class StartScreen extends screen {				public function StartScreen() {			// constructor code						super();						close_btn.visible = false;					}				public function Close():void		{			visible = false;		}			}	}

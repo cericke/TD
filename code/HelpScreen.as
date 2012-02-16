@@ -1,0 +1,1 @@
+﻿package code {		import flash.display.MovieClip;	import flash.display.SimpleButton;			public class HelpScreen extends screen {				public function HelpScreen() {			// constructor code						super();						close_btn.x = 190			close_btn.y = -190		}	}	}
